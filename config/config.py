@@ -50,7 +50,7 @@ GPT_API = getenv("GPT_API", None)
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Theradhe/Kid-karepo",
+    "https://github.com/Patel070707/Kid-karepoamit",
 )
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
